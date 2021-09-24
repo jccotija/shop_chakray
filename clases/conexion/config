@@ -1,0 +1,9 @@
+{
+    "conexion": {
+        "server" : "172.28.1.1",
+        "user" : "root",
+        "password" : "mysqlpass",
+        "database" : "shop_db",
+        "port": "3306"
+    }
+}
